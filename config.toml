@@ -1,8 +1,8 @@
 # Base information
-baseURL = "https://example.com"
-languageCode = "en-gb"
-title = "Sam Robbins"
-# theme = "hugo-developer-portfolio"
+baseURL = "https://devlinmcclure.com"
+languageCode = "en-us"
+title = "Devlin McClure"
+theme = "hugo-developer-portfolio"
 googleAnalytics = ""
 
 # Remove this when using normally
@@ -53,8 +53,8 @@ googleAnalytics = ""
 [params]
 home = "Home"
 # Meta data
-description = "The website of Sam Robbins, 2nd Year Computer Science Student at Durham University"
-author = "Sam Robbins"
+description = "The website of Devlin McClure"
+author = "Devlin McClure"
 
 
   [params.contact]
@@ -62,8 +62,8 @@ author = "Sam Robbins"
   formAction = "" #contact form works with formspree.io
 
   [params.footer]
-  email = "samrobbinsgb@gmail.com"
-  address = "Durham, UK"
+  email = "mccluredt@gmail.com"
+  address = "Bloomington, Indiana"
   googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
 
 [markup]
@@ -78,3 +78,16 @@ author = "Sam Robbins"
     style = "rainbow_dash"
     tabWidth = 4
 
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
