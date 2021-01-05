@@ -27,7 +27,7 @@ skill:
     - title: Unreal Engine
       logo: logos/unrealengine.svg
       description: Help me out here
-    - title: C/C++
+    - title: C
       logo: logos/c.svg
       description: Help me out here
   
@@ -37,7 +37,7 @@ experience:
     - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
       title: VR Intern
       company: Mark Cuban Center For Sports Media and Technology
-      duration: November 2019
+      duration: May 2018 - August 2018
 
 hackathons:
   enable: false
@@ -57,10 +57,10 @@ certifications:
 education:
   enable: true
   item:
-    - title: BSc Computer Science
-      year: 2018 - Present
-      academy: Durham University
-      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
+    - title: Game Design BS, Computer Science BA
+      year: 2017 - Present
+      academy: Indiana University Bloomington
+      image: logos/iu.png
 
 leadership:
   enable: true
