@@ -59,7 +59,7 @@ author = "Devlin McClure"
 
   [params.contact]
   enable = true
-  formAction = "" #contact form works with formspree.io
+  formAction = "https://formspree.io/f/xaylbedd" #contact form works with formspree.io
 
   [params.footer]
   email = "mccluredt@gmail.com"
