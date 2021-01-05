@@ -63,8 +63,8 @@ author = "Devlin McClure"
 
   [params.footer]
   email = "mccluredt@gmail.com"
-  address = "Bloomington, Indiana"
-  googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
+  address = "Indianapolis, Indiana"
+  googlemaps = "https://goo.gl/maps/UH8PSZeTnVRsa6A56"
 
 [markup]
   [markup.highlight]
