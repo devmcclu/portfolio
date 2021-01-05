@@ -20,21 +20,21 @@ skill:
   item:
     - title: Unity
       logo: logos/unity.svg
-      description: Details coming soon, contact me if you want to know more
+      description: 3+ Years creating prototypes and games in Unity
     - title: CSharp
       logo: logos/csharp.svg
-      description: Help me out here
+      description: 3+ years working in C#
     - title: Unreal Engine
       logo: logos/unrealengine.svg
-      description: Help me out here
+      description: Over 2 years creating prototypes and games in Unreal Engine
     - title: C
       logo: logos/c.svg
-      description: Help me out here
+      description: Over a year working in C and C++
   
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+    - logo: logos/iu_trident.png
       title: VR Intern
       company: Mark Cuban Center For Sports Media and Technology
       duration: May 2018 - August 2018
