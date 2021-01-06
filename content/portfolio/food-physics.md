@@ -2,7 +2,7 @@
 categories = ["web-dev"]
 coders = []
 date = 2020-06-19T23:00:00Z
-description = "An implementation of the game Rogue made in C using Linux based terminal tools"
+description = "Proof of Concept, Programmer (Unreal Engine 4, Blueprints) - Programmatically Designed Soft Body Objects"
 github = ["https://github.com/devmcclu/unreal-food-physics", "https://github.com/devmcclu/unreal-breaking-food "]
 image = "https://i9.ytimg.com/vi/wFKf9JH5APw/maxresdefault.jpg"
 title = "Game Engine Food Physics"

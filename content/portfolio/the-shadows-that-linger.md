@@ -2,9 +2,9 @@
 categories = ["web-dev"]
 coders = []
 date = 2020-06-19T23:00:00Z
-description = "A portfolio website made with Hugo"
+description = "In Development, Lead Programmer (Unity, C#) - Narrative Adventure Murder Mystery"
 github = []
-image = "https://i9.ytimg.com/vi/wFKf9JH5APw/maxresdefault.jpg"
+image = "https://i.imgur.com/cIFLKSz.jpeg"
 title = "The Shadows That Linger"
 type = "post"
 [[tech]]

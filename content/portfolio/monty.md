@@ -2,9 +2,9 @@
 categories = ["web-dev"]
 coders = []
 date = 2020-06-19T23:00:00Z
-description = "A networked multiplayer shooter in the Godot game engine"
+description = "Prototype, Programmer (Unity, C#) - Unit Controlling Puzzle Game"
 github = ["https://github.com/devmcclu/monty-prototpye-3d"]
-image = "https://i9.ytimg.com/vi/wFKf9JH5APw/maxresdefault.jpg"
+image = "https://i.imgur.com/fSl3Blf.png"
 title = "Monty"
 type = "post"
 [[tech]]
