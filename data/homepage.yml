@@ -72,5 +72,5 @@ leadership:
 
 portfolio:
   filter:
-    - label: Web Dev
-      value: web-dev
+    - label: Game Dev
+      value: game-dev

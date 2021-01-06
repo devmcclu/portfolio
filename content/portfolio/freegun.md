@@ -1,5 +1,5 @@
 +++
-categories = ["web-dev"]
+categories = ["game-dev"]
 coders = []
 date = 2020-06-19T23:00:00Z
 description = "Proof of Concept, Programmer (Godot, GDScript) - Networked Multiplayer Framework "
