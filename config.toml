@@ -1,5 +1,5 @@
 # Base information
-baseURL = "https://devlinmcclure.com"
+baseURL = "https://devmcclu.github.io"
 languageCode = "en-us"
 title = "Devlin McClure"
 theme = "hugo-developer-portfolio"
