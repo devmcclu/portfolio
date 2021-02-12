@@ -1,5 +1,5 @@
 +++
-categories = ["game-dev"]
+categories = ["game-dev", "linux", "cplus"]
 coders = []
 date = 2020-06-19T23:00:00Z
 description = "Completed, Programmer (C) - Remake of Rogue using C and Linux tools"
