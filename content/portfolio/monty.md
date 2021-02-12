@@ -8,7 +8,7 @@ image = "https://i.imgur.com/fSl3Blf.png"
 title = "Monty"
 type = "post"
 [[tech]]
-logo = "logos/unity.svg"
+logo = "https://i.imgur.com/v03jzFC.png"
 name = "Unity"
 url = "https://unity.com/"
 

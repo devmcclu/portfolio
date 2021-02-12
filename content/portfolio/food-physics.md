@@ -4,7 +4,7 @@ coders = []
 date = 2020-06-19T23:00:00Z
 description = "Proof of Concept, Programmer (Unreal Engine 4, Blueprints) - Programmatically Designed Soft Body Objects"
 github = ["https://github.com/devmcclu/unreal-food-physics", "https://github.com/devmcclu/unreal-breaking-food "]
-image = "https://i9.ytimg.com/vi/wFKf9JH5APw/maxresdefault.jpg"
+image = "https://i.imgur.com/bBkxNOI.png"
 title = "Game Engine Food Physics"
 type = "post"
 [[tech]]
@@ -24,3 +24,6 @@ An experiment focusing on creating programmatically designed food physics in gam
 ## Features
 * Soft Body Physics
 * Dynamically breaking objects
+
+![FleX based "Jelly" cube](/images/portfolio/flexCube.gif)
+![Material Based Soft Body and Procedurally breaking cube](/images/portfolio/dynamic.gif)

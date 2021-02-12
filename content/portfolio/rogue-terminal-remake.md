@@ -4,7 +4,7 @@ coders = []
 date = 2020-06-19T23:00:00Z
 description = "Completed, Programmer (C) - Remake of Rogue using C and Linux tools"
 github = []
-image = "https://i9.ytimg.com/vi/wFKf9JH5APw/maxresdefault.jpg"
+image = "https://i.imgur.com/5VccaJ5.png"
 title = "Terminal Rogue Remake"
 type = "post"
 [[tech]]

@@ -8,7 +8,7 @@ image = "https://i.imgur.com/cIFLKSz.jpeg"
 title = "The Shadows That Linger"
 type = "post"
 [[tech]]
-logo = "logos/unity.svg"
+logo = "https://i.imgur.com/v03jzFC.png"
 name = "Unity"
 url = "https://unity.com/"
 [[tech]]
@@ -29,8 +29,10 @@ Can provide code on request
 
 ## Implemented
 * Branching Narrative structure built upon Ink Framework
-* Dual world switching system
+* Notification system for important in-game events
 * Scriptable Object based system design
 
 
 For this project, I have created tools to help streamline the process of content creation for the writers and designers to develop more content with as little interaction with pure code as possible. Designers and writers can test out new dialogue just by dropping in Ink files and assigning the file in a scene's Story Controller. Clues and other intractable objects can be made directly in the Unity Editor with custom Scriptable Objects, and easily integrated into other systems such as the inventory system.
+
+{{< youtube id="wFKf9JH5APw" autoplay="false" >}}

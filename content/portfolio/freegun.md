@@ -4,7 +4,7 @@ coders = []
 date = 2020-06-19T23:00:00Z
 description = "Proof of Concept, Programmer (Godot, GDScript) - Networked Multiplayer Framework "
 github = ["https://github.com/devmcclu/Project-FreeGUN"]
-image = "https://i9.ytimg.com/vi/wFKf9JH5APw/maxresdefault.jpg"
+image = "https://i.imgur.com/Tx19uND.png"
 title = "Project FreeGUN"
 type = "post"
 [[tech]]
