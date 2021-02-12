@@ -23,3 +23,6 @@ Can provide code on request
 * Random room generation
 * Enemy movement/design
 * Player health and score
+
+![Score and room change](/images/portfolio/rogue2.gif)
+![Health system](/images/portfolio/rogue3.gif)
