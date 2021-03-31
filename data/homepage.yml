@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m Devlin
+  title: Devlin McClure
 social:
   twitter: devlin_mcclure
   linkedin: devlin-mcclure
@@ -71,6 +71,17 @@ leadership:
       duration: September 2014 - July 2018
 
 portfolio:
+  enable: false
   filter:
+    - label: C/C++
+      value: cplus
+    - label: C#
+      value: csharp
     - label: Game Dev
       value: game-dev
+    - label: Linux
+      value: linux
+    - label: Unity
+      value: unity
+    - label: Unreal
+      value: unreal
