@@ -71,17 +71,12 @@ leadership:
       duration: September 2014 - July 2018
 
 portfolio:
-  enable: false
-  filter:
-    - label: C/C++
-      value: cplus
-    - label: C#
-      value: csharp
-    - label: Game Dev
-      value: game-dev
-    - label: Linux
-      value: linux
-    - label: Unity
-      value: unity
-    - label: Unreal
-      value: unreal
+  enable: true
+  item:
+    - title: The Shadows That Linger
+      image: https://i.imgur.com/cIFLKSz.jpeg
+      description: In Development, Lead Programmer (Unity, C#) - Narrative Adventure Murder Mystery
+      link: "/portfolio/the-shadows-that-linger"
+      tools:
+        - unity
+        - csharp
