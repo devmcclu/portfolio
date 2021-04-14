@@ -55,7 +55,7 @@ certifications:
       url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
 
 education:
-  enable: true
+  enable: false
   item:
     - title: Game Design BS, Computer Science BA
       year: 2017 - Present
@@ -75,7 +75,7 @@ portfolio:
   item:
     - title: The Shadows That Linger
       image: https://i.imgur.com/cIFLKSz.jpeg
-      description: In Development, Lead Programmer (Unity, C#) - Narrative Adventure Murder Mystery
+      description: Released, Lead Programmer (Unity, C#) - Narrative Adventure Murder Mystery
       link: "/portfolio/the-shadows-that-linger"
       tools:
         - unity
