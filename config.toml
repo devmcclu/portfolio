@@ -89,5 +89,3 @@ author = "Devlin McClure"
     disable = true
   [privacy.vimeo]
     disable = true
-  [privacy.youtube]
-    disable = true
