@@ -32,6 +32,9 @@ Making grid based games in 2D has been done fairly well, in tools such as Tiled 
 Something like clicking on the level to place a tile seemed out of the question for the time frame of the project. So I needed to break down the basics of a map tool. In order to get the tilemap tool working, I needed at least four things: selection of the tiles, the position of the tiles, the size of the tiles in the map, and the ability to place a tile in the level. To get the tiles, I created a Primary Data Asset to hold the tile model and an icon to show the user the tiles they can choose from. These Tile Assets can be loaded on demand to create new buttons for choosing the tile to place.
 The position of the tile, size of the tile, and ability to place the tile in the level are all tied together. The user supplies the size of the tile, and every time the user places a new tile by clicking the button, the Y position is incremented by the size of the tiles. The text in the text box is updated to reflect the change. The user can also arbitrarily change the position of where the tile will be placed. There didn’t seem to be a good way to keep track of these values if the tool was closed and reopened, however, so the user has to input the position of where they last left off or where they want to be.
 
+![Spawning Tiles](https://i.imgur.com/f2sn4BG.png)
+*Blueprints of how tiles are spawned*
+
 ![Tilemap Editor](https://i.imgur.com/rkWANUk.png)
 *Tilemap Editor UI*
 
