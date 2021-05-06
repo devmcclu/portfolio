@@ -11,7 +11,7 @@ social:
   gmail: mccluredt
 about:
   enable: true
-  content: Systemic Game Programmer
+  content: Gameplay and Tools Programmer
   button:
     btnText: Find out more
     URL: "/about"
