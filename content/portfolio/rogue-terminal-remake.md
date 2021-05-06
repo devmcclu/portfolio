@@ -1,7 +1,7 @@
 +++
 categories = ["game-dev", "linux", "cplus"]
 coders = []
-date = 2020-06-19T23:00:00Z
+date = 2019-10-19T23:00:00Z
 description = "Completed, Programmer (C) - Remake of Rogue using C and Linux tools"
 github = []
 image = "https://i.imgur.com/5VccaJ5.png"

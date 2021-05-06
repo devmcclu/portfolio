@@ -1,7 +1,7 @@
 +++
 categories = ["game-dev"]
 coders = []
-date = 2020-06-19T23:00:00Z
+date = 2020-01-19T23:00:00Z
 description = "Proof of Concept, Programmer (Godot, GDScript) - Networked Multiplayer Framework "
 github = ["https://github.com/devmcclu/Project-FreeGUN"]
 image = "https://i.imgur.com/Tx19uND.png"
